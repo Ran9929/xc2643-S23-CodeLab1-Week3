@@ -1,5 +1,5 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# Week3 Asssignment
 
-DO NOT LEAVE IT LIKE THIS!!!
+Left Ctrl is "Fire"
+Space set HighScore to "0"
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
